@@ -1,5 +1,4 @@
-COPY THIS FILE
-.
+-
 
 
 
