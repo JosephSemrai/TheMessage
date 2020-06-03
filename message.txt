@@ -955,4 +955,4 @@
 
 
 -----
-COPY THIS MESSAGE AT https://github.com/JosephSemrai/TheMessage/blob/master/message.txt
+COPY THIS MESSAGE AT https://bit.ly/3726MNR
